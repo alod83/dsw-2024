@@ -1,5 +1,5 @@
 # Data Storytelling in Python Altair
-Material for the workshop Data Storytelling in Python Altair
+Material for the workshop Data Storytelling in Python Altair.
 
 ## Preliminary Concepts
 
@@ -20,6 +20,8 @@ Install altair:
 ### The Dataset
 
 We use the [Global Temperature Anomalies](https://www.ncei.noaa.gov/access/monitoring/global-temperature-anomalies/anomalies) anomalies released by NOAA under the [Creative Commons 1.0 Universal Public Domain Dedication (CC0-1.0) license](https://nauticalcharts.noaa.gov/data/data-licensing.html).
+
+The dataset is also available under [source/1850-2024.csv](source/1850-2024.csv).
 
 ## References
 
